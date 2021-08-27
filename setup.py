@@ -4,4 +4,4 @@ from setuptools import setup
 setup(
     name="streamlit-gcp",
     description="streamlit gcp",
-    requirements=["streamlit", "pandas", "google"])
+    requirements=["streamlit", "pandas", "google-cloud-storage"])
